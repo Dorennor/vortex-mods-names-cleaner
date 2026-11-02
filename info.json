@@ -1,0 +1,7 @@
+{
+  "id": "clean-mod-names",
+  "name": "Clean Mod Names",
+  "author": "Volodymyr Rud",
+  "version": "1.0.0",
+  "description": "Removes archive extensions (.zip, .rar, .7z and similar) from mod display names, for all games."
+}
